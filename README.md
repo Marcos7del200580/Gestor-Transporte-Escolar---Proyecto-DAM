@@ -17,5 +17,5 @@ Desarrolar un aplicación Web que permita:
 - Gestionar conductores y vehiculos
 - Controlar la subida y bajada de alumnos
 - Notificar a los padres en tiempo real
-- Mostrar el recorrido del autobus
+- Mostrar el recorrido de la guagua
 - Gestionar indidencias
