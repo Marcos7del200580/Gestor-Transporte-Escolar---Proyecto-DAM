@@ -19,13 +19,13 @@ export const mockUsers:Users[] = [
     name: "Familia Pérez",
     email: "family@test.com",
     password: "123456",
-    role: "family",
+    role: "familia",
   },
   {
     id: 3,
     name: "Alumno Juan",
     email: "student@test.com",
     password: "123456",
-    role: "student",
+    role: "alumno",
   },
 ];
