@@ -14,7 +14,7 @@ El objetivo principal es aportar **tranquilidad, control y transparencia** en el
 Desarrolar un aplicación Web que permita:
 
 - Registrar rutas escolares
-- Gestionar conductores y vehiculos
+- Gestionar vehiculos
 - Controlar la subida y bajada de alumnos
 - Notificar a los padres en tiempo real
 - Mostrar el recorrido de la guagua
